@@ -6,7 +6,7 @@ print("━━━━━━━━━━━━━━━━━━━━━━━━�
 print("🌐 Inicializando Universal-Game...")
 print("━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━")
 
-local GITHUB_BASE = "https://raw.githubusercontent.com/LordCripes/Violetex-Hub/main/Universal-Game/"
+local GITHUB_BASE = "https://raw.githubusercontent.com/LordCripes/VioletexHub/main/Universal-Game/"
 
 -- Função para carregar módulos da pasta Universal-Game
 local function loadModule(moduleName)
