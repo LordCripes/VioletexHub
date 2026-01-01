@@ -51,3 +51,4 @@ if hub then
 else
     warn("❌ Falha ao carregar o hub!")
 end
+
