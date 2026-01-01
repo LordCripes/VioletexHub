@@ -20,7 +20,7 @@ local Players = game:GetService("Players")
 local LocalPlayer = Players.LocalPlayer
 
 -- Configurações
-local GITHUB_BASE = "https://raw.githubusercontent.com/LordCripes/Violetex-Hub/main/"
+local GITHUB_BASE = "https://raw.githubusercontent.com/LordCripes/VioletexHub/main/"
 local GAME_ID = game.PlaceId
 local GAME_NAME = ""
 
